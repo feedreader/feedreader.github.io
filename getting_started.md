@@ -45,7 +45,7 @@ Use the `pluto` command line tool and pass in the
 planet configuration file. Example:
 
 ```
-$ pluto build ruby.ini
+$ pluto build planet.ini
 ```
 
 This will
