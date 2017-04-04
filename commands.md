@@ -38,7 +38,7 @@ COMMANDS
 ```
 
 
-## `build` Command    {#build}
+## `build` Command
 
 ```
 NAME
@@ -62,7 +62,7 @@ EXAMPLE
 ```
 
 
-## `list` Command    {#list}
+## `list` Command
 
 ```
 NAME
@@ -77,7 +77,7 @@ EXAMPLE
 ```
 
 
-## `install` Command    {#install}
+## `install` Command
 
 ```
 NAME
@@ -91,7 +91,7 @@ EXAMPLE
 ```
 
 
-## `update` Command     {#update}
+## `update` Command
 
 ```
 NAME
@@ -110,7 +110,7 @@ EXAMPLE
 ```
 
 
-## `merge` Command      {#merge}
+## `merge` Command
 
 ```
 NAME

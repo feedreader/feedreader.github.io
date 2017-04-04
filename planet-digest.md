@@ -1,6 +1,7 @@
 ---
-title: `digest` - Pluto Planet Template Pack
+title: "digest - Pluto Planet Template Pack"
 ---
+
 
 Design and layout inspired by
 [Alterslash - the unofficial Slashdot digest](http://alterslash.org).

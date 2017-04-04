@@ -3,14 +3,14 @@ title: "Getting Started - What's Pluto?"
 ---
 
 
-## What's Pluto?   {#whatis}
+## What's Pluto?
 
 A planet site generator in ruby
 that lets you build web pages from published web feeds.
 
 
 
-## Getting Started    {#start}
+## Getting Started
 
 ### Step 1 - Add all web feeds to your planet configuration
 
