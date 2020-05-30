@@ -7,7 +7,7 @@ A planet site generator in ruby that lets you build web pages from published web
   - [digest - Pluto Planet Template Pack](#digest---pluto-planet-template-pack)
 - [Planet Configuration](#planet-configuration)
 - [Create Your Own Templates](#create-your-own-templates---template-reference)
-  - [Planet Planet <=> Pluto - Template Cheatsheet](#planet-planet-----pluto---template-cheatsheet)
+  - [Planet Planet <=> Pluto - Template Cheatsheet](#planet-planet--pluto---template-cheatsheet)
 - [Commands, Commands, Commands](#commands-commands-commands)
 - [About](#about)
 
@@ -160,8 +160,8 @@ or real world setups (with live planet news sites) see the
 Samples include:
 
 [`nytimes.ini`](https://github.com/feedreader/planets/blob/master/nytimes.ini),
-[`js.ini`](https://github.com/feedreader/planet-web/blob/master/js.ini),
-[`dart.ini`](https://github.com/feedreader/planet-web/blob/master/dart.ini),
+[`js.ini`](https://github.com/feedreader/planets/blob/master/web/js-node.ini),
+[`dart.ini`](https://github.com/feedreader/planets/blob/master/web/dart.ini),
 [`haskell.ini`](https://github.com/feedreader/planets/blob/master/haskell.ini).
 
 Real world setups include:
