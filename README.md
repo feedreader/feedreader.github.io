@@ -160,7 +160,7 @@ or real world setups (with live planet news sites) see the
 Samples include:
 
 [`nytimes.ini`](https://github.com/feedreader/planets/blob/master/nytimes.ini),
-[`js.ini`](https://github.com/feedreader/planets/blob/master/web/js-node.ini),
+[`js-node.ini`](https://github.com/feedreader/planets/blob/master/web/js-node.ini),
 [`dart.ini`](https://github.com/feedreader/planets/blob/master/web/dart.ini),
 [`haskell.ini`](https://github.com/feedreader/planets/blob/master/haskell.ini).
 
