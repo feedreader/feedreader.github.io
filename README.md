@@ -5,7 +5,9 @@ _Free Planet Feed Reader and (Static) Website Generator - Auto-Build Web Pages F
 
 [GitHub](https://github.com/feedreader) // 
 [Planets](https://github.com/feedreader/planets) // 
-[Templates](https://github.com/planet-templates) 
+[Quick Starter Kit](https://github.com/feedreader/pluto.starter) //
+[Quick Starter Kit (Jekyll & Friends Ed.)](https://github.com/feedreader/planet.rb) // 
+[Template Samples](https://github.com/planet-templates) 
 
 
 
