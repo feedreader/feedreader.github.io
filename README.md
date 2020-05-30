@@ -1,6 +1,10 @@
-# Pluto Docs
+# Planet Pluto Planet Guide
 
-A planet site generator in ruby that lets you build web pages from published web feeds.
+_Free Planet (Static) Website Generator - Auto-Build Web Pages From Published Web Feeds_
+
+
+
+Table of Contents
 
 - [What's Pluto? - Getting Started](#getting-started)
   - [top - Pluto Planet Template Pack](#top---pluto-planet-template-pack)
