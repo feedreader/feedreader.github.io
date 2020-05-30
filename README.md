@@ -1,6 +1,11 @@
-# Planet Pluto Planet Guide
+# Planet Pluto Guide
 
-_Free Planet (Static) Website Generator - Auto-Build Web Pages From Published Web Feeds_
+_Free Planet Feed Reader and (Static) Website Generator - Auto-Build Web Pages From Published Web Feeds_
+
+
+[GitHub](https://github.com/feedreader) // 
+[Planets](https://github.com/feedreader/planets) // 
+[Templates](https://github.com/planet-templates) 
 
 
 
